@@ -9,6 +9,13 @@ Predicting air quality is crucial for public health, environmental monitoring, a
 
 Using the UCI Air Quality Dataset, the project performs data preprocessing, feature engineering, and model training to build a reliable predictive system for real-time CO concentration.
 
+## 👥 Project Team
+
+- Aswathi H  
+- Devna N  
+- Bhavana R
+
+  
 ## 🛠️ Tech Stack
 Language: Python
 
