@@ -1,5 +1,5 @@
 # Air-Quality-Index-Using-Machine-Learning---Mini-Project
-# Air-Quality-Index-Using-Machine-Learning---Mini-Project
+
 
 This project uses a Random Forest Regressor to predict Carbon Monoxide ($CO(GT)$) levels based on various air quality sensor data and environmental factors. The model achieves high accuracy and provides insights into which pollutants are the strongest predictors of air quality.
 
